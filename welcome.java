@@ -28,18 +28,18 @@ public class welcome {
     		   System.out.println("odd");
     	   }
     	   
-    	   System.out.println("1 == 1");//true
-    	   System.out.println("1 == 10");//false
-    	   System.out.println("1 != 3");//true
-    	   System.out.println("3 > 1");//true
-    	   System.out.println("1 < 3");//true
-    	   System.out.println("1 > 1");//false
-    	   System.out.println("1 > 3");//false
-    	   System.out.println("1 < 3");//true
+    	   System.out.println(1 == 1);//true
+    	   System.out.println(1 == 10);//false
+    	   System.out.println(1 != 3);//true
+    	   System.out.println(3 > 1);//true
+    	   System.out.println(1 < 3);//true
+    	   System.out.println(1 > 1);//false
+    	   System.out.println(1 > 3);//false
+    	   System.out.println(1 < 3);//true
     	   
-    	   System.out.println("1 <= 1");//true
-    	   System.out.println("1 <= 5");//true
-    	   System.out.println("6 <= 1");//false
+    	   System.out.println(1 <= 1);//true
+    	   System.out.println(1 <= 5);//true
+    	   System.out.println(6 <= 1);//false
     	   
     	   int myNum2 = 50;
     	   if(myNum2 == 0) {
